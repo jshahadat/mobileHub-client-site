@@ -1,10 +1,10 @@
 # Project Title
 
-NextPhone- Change Your Next Pone With Your Dream Phone
+MobileHub- Change Your Next Pone With Your Dream Phone
 
 ## Demo link:
 
-Access my site at [Live Link ](https://mobilelistbd.web.app/).
+Access my site at [Live Link ](https://mobilehub2.web.app/).
 
 ## Table of Content:
 
@@ -15,7 +15,7 @@ Access my site at [Live Link ](https://mobilelistbd.web.app/).
 
 ## About The App
 
-[NextPhone] NextPhone Want to sell old phone online and get some quick cash? Then, there is no better place than NextPhone; we assure you that. Forget all those troubles of going to a shop, pleading for the best price and then crossing your fingers for the safety of your data. NextPhone is the new one-stop to sell old phone online; it’s like a wish granted by god. Yes, you heard it right. With NextPhone’s smooth user experience, you can sell old phones online with just a few clicks. So, stay at your home, and sell old mobile phones right in the comfort of your home at the best possible price. No, that’s not a typo - it’s 100 per cent guaranteed. Introducing NextPhone, India’s biggest re-commerce website.
+[MobileHub]Welcome to MobileHub - Your Ultimate Destination to Sell Old Phones Online! Say goodbye to the hassle of traditional shops, haggling for the best price, and worrying about your data's safety. MobileHub is your one-stop solution for selling old phones online. It's as if your wish has been granted. With our seamless user experience, you can sell your old mobile phones from the comfort of your home with just a few clicks. Rest assured, you'll receive the best possible price, and it's 100% guaranteed. Allow us to introduce MobileHub, India's largest re-commerce website.
 
 ## Features
 
